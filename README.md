@@ -8,9 +8,9 @@ Folder for **work** from digital frameworks class
 Pro-India Senators 
 1. Dems 
   1. Murphy 
-  2. Kaine 
-  3. Warner 
+  1. Kaine 
+  1. Warner 
 2. GOP 
   1. Cornyn 
-  2. Graham 
-  3. Braun 
+  1. Graham 
+  1. Braun 
