@@ -24,6 +24,8 @@ in the world.
 
 ### Objective: Clarity and accuracy
 
+Link (https://www.thedialogue.org/map_list/)
+
 * Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations. 
    * What was it?
    * Was it in the headline?
