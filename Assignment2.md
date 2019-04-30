@@ -4,7 +4,7 @@ hjkl
 
 
 
-Lender | LatAm Country | Purpose | $$$ Amount 
------------  | ------------- | ------------- | ------------- |
-IMF | Argentina | Deficit Reduction | $57.1B |
-Content in the first column | Content in the second column | Content in the third column | Content in the fourth column |
+Lender | LatAm Country | Purpose | $$$ Amount | Date |
+-----------  | ------------- | ------------- | ------------- | ------------- |
+IMF | Argentina | Deficit Reduction | $57.1B | October 2018 |
+Chinese Development Bank | Venezuela | Oil Financing | $5B | September 2018 |
