@@ -6,3 +6,5 @@ through find and replace, but was unable to figure out how to convert all the fi
 next step is all I would need to do to finish cleaning this otherwise well-done data sheet. 
 
 [Here is the csv on Google Docs](https://drive.google.com/file/d/1pPJCGHPo3aIX9_jq8-LoBO-r96972YoX/view?usp=sharing)
+
+[Here is the original data](https://github.com/LucasWRobinson/digitalframeworks-spring2019/blob/master/IMF%20Balance%20of%20Payments%20Original.xlsx)
